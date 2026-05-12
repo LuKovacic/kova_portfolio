@@ -1,0 +1,1 @@
+import{j as e}from"./index-RnkqB_As.js";import{N as s,F as r}from"./Footer-BrQjcOla.js";function x(){return e.jsxs("div",{className:"min-h-screen flex flex-col",children:[e.jsx(s,{}),e.jsx("main",{className:"flex-1 flex items-center justify-center",children:e.jsx("h1",{className:"text-5xl md:text-7xl font-serif",children:"Nagrade"})}),e.jsx(r,{})]})}export{x as component};
